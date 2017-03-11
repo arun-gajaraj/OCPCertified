@@ -13,8 +13,6 @@ public class FindMatching {
 		printiIt(new Animal("Kangaroo",true,true), a -> a.canHop());
 		printiIt(new Animal("Eagle",false,false), a -> a.canHop());
 		printiIt(new Animal("Rabbit",true,true), a -> a.canHop());
-		printiIt(new Animal("Snake",false,true), a -> a.canHop());
-		printiIt(new Animal("Worm",false,false), a -> a.canHop());
 		
 	}
 	
