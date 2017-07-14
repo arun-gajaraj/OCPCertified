@@ -1,15 +1,14 @@
-public class Crate <T>{
-	private T Contents;
+public class Crate <T> {
+	private T contents;
 
 	public T emptyCrate()
 	{
-		return Contents;
+		return contents;
 	}
-	public void packCrate(T contents)
+
+	public void packCrate(T t)
 	{
-		this.contents = contents;
+		this.contents = t;
 	}
 	
 }
-
-
