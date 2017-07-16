@@ -16,5 +16,6 @@ class StreamClass {
 
 		Stream <Integer> s3 = Stream.iterate(1, n -> n+2);
 		// s3.forEach(System.out::println);
+		
 	}
 }
