@@ -7,5 +7,6 @@ public class Gen {
 		System.out.println(crate.emptyCrate());
 
 
+
 	}
 }
