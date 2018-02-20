@@ -9,6 +9,8 @@
 			
 			String [] array = {"Arun", "Divakar", "Ananth"};
 
+			String array3 [] = new String[2];
+
 			List <String> arrayList = Arrays.asList(array);
 
 			System.out.println("ArrayList : " + arrayList);

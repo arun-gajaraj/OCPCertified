@@ -1,9 +1,9 @@
 public class NestedClasses {
 
-	public String str1 = "Hello";
-	private String str2 = "This is private string";
-	String str3 = "Default access String";
-	protected String str4 = "Protected access";
+	public 		String str1 = "Hello";
+	private 	String str2 = "This is private string";
+				String str3 = "Default access String";
+	protected 	String str4 = "Protected access";
 
 
 	public class InnerClass {
